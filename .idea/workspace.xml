@@ -18,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -52,7 +52,7 @@
       <recent name="hashmap" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyHashMap">
+  <component name="RunManager" selected="Gradle.MyHashMapTest.givenASentence_WhenWordsAreAddedToList_ShouldReturnWordFrequency">
     <configuration name="MyHashMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hashmap.MyHashMap" />
       <module name="Day14_DSHashMap.main" />
