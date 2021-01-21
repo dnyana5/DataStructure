@@ -1,1 +1,1 @@
- com.hashmap.MyHashMap@550ac06d
+œMyLinkedHashMap List{[MyLinkedList{MyMapNode{K=themselvesV=1}}, MyLinkedList{MyMapNode{K=butV=1}->MyMapNode{K=keepV=1}}, MyLinkedList{MyMapNode{K=areV=2}->MyMapNode{K=theyV=1}->MyMapNode{K=theyV=1}->MyMapNode{K=intoV=1}}, null, null, MyLinkedList{MyMapNode{K=paranoidsV=1}->MyMapNode{K=puttingV=1}}, MyLinkedList{MyMapNode{K=deliberatelyV=1}}, MyLinkedList{MyMapNode{K=notV=1}->MyMapNode{K=avoidableV=1}}, MyLinkedList{MyMapNode{K=paranoidV=3}->MyMapNode{K=becauseV=1}->MyMapNode{K=becauseV=1}}, MyLinkedList{MyMapNode{K=situationsV=1}}]}

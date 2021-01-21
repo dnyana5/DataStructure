@@ -1,8 +1,10 @@
 com/hashmap/MyLinkedList.java
  com.hashmap.MyLinkedList
-com/hashmap/MyHashMap.java
- com.hashmap.MyHashMap
-com/hashmap/INode.java
- com.hashmap.INode
 com/hashmap/MyMapNode.java
  com.hashmap.MyMapNode
+com/hashmap/INode.java
+ com.hashmap.INode
+com/hashmap/MyLinkedHashMap.java
+ com.hashmap.MyLinkedHashMap
+com/hashmap/MyHashMap.java
+ com.hashmap.MyHashMap

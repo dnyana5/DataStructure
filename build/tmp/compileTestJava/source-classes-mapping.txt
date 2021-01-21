@@ -1,2 +1,4 @@
+com/hashmap/MyLinkedListHashMapTest.java
+ com.hashmap.MyLinkedListHashMapTest
 com/hashmap/MyHashMapTest.java
  com.hashmap.MyHashMapTest

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.hashmap.MyHashMapTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-21T09:38:32" hostname="DESKTOP-BLCU99U" time="0.022">
-  <properties/>
-  <testcase name="givenASentence_WhenWordsAreAddedToList_ShouldReturnWordFrequency" classname="com.hashmap.MyHashMapTest" time="0.022"/>
-  <system-out><![CDATA[com.hashmap.MyHashMap@550ac06d
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
